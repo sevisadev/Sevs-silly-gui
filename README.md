@@ -14,5 +14,5 @@ The source code can be found in the [latest release](https://github.com/sevisade
 ## Preview
 <div align="center">
 NOTE: This image may not up to date.
-<img src="https://github.com/sevisadev/Sevs-silly-gui/blob/main/Sevs%20silly%20GUI%20image.png&?raw=true" title = "NOTE: Image may not up to date." alt = "IMAGE MAYBE NOT UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
+<img src="https://github.com/sevisadev/Sevs-silly-gui/blob/main/Sevs%20silly%20GUI%20image.png?raw=true" title = "NOTE: Image may not up to date." alt = "IMAGE MAYBE NOT UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
 </div>
