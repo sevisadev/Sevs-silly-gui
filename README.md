@@ -11,6 +11,9 @@
 Download the latest release DLL [here](https://github.com/sevisadev/Sevs-silly-gui/releases/latest). You will need Bepinex installed, this mod only requires utila with can be found in Monke Mod Manger! Then drag the file into your plugins and your good to go!
 ## <i>Source code</i>
 no source code so no skic >:)
+## Credits
+IIDK - gunrenderer bc i dont know how ray work :)
+Sev (me) - Everything else
 ## Preview
 <div align="center">
 NOTE: This image may not be up to date.
