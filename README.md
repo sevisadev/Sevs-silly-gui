@@ -12,8 +12,7 @@ Download the latest release DLL [here](https://github.com/sevisadev/Sevs-silly-g
 ## <i>Source code</i>
 no source code so no skic >:)
 ## Credits
-IIDK - gunrenderer bc i dont know how ray work :)
-Sev (me) - Everything else
+IIDK - gunrenderer bc i dont know how ray work :)    |    Sev (me) - Everything else
 ## Preview
 <div align="center">
 NOTE: This image may not be up to date.
