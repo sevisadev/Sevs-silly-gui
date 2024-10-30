@@ -16,8 +16,7 @@ IIDK - gunrenderer bc i dont know how ray work :)    |    Sev (me) - Everything 
 # Controls pc
 L = down | O = up | P = select
 # Controls vr
-Domonate hand: top face button = select
-Non-domonate hand = face buttons scroll
+Domonate hand: top face button = select | Non-domonate hand = face buttons scroll
 ## Preview
 <div align="center">
 NOTE: This image may not be up to date.
