@@ -12,11 +12,11 @@ Download the latest release DLL [here](https://github.com/sevisadev/Sevs-silly-g
 ## <i>Source code</i>
 no source code so no skic >:)
 ## Credits
-IIDK - gunrenderer bc i dont know how ray work :)    |    Sev (me) - Everything else
+IIDK - gunrenderer bc i dont know how ray work :)    |    Sev (me) - Everything else   |   Anything that has someones name next to it was moade by them and moddified by me i never directly steal.
 # Controls pc
 L = down | O = up | P = select
 # Controls vr
-Domonate hand: top face button = select | Non-domonate hand = face buttons scroll
+By deafualt its your joystick
 ## Preview
 <div align="center">
 NOTE: This image may not be up to date.
