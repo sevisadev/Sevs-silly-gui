@@ -10,9 +10,9 @@
 ## <i>Installation</i>
 Download the latest release DLL [here](https://github.com/sevisadev/Sevs-silly-gui/releases/latest). You will need Bepinex installed, this mod only requires utila with can be found in Monke Mod Manger! Then drag the file into your plugins and your good to go!
 ## <i>Source code</i>
-no source code so no skic >:)
+Source code can be found above but make sure to read the licencse.
 ## Credits
-IIDK - gunrenderer bc i dont know how ray work :)    |    Sev (me) - Everything else   |   Anything that has someones name next to it was moade by them and moddified by me i never directly steal.
+In game
 # Controls pc
 L = down | O = up | P = select
 # Controls vr
