@@ -10,7 +10,7 @@
 ## <i>Installation</i>
 Download the latest release DLL [here](https://github.com/sevisadev/Sevs-silly-gui/releases/latest). You will need Bepinex installed, this mod only requires utila with can be found in Monke Mod Manger! Then drag the file into your plugins and your good to go!
 ## <i>Source code</i>
-Source code can be found above but make sure to read the licencse.
+Source code can be found [here](https://drive.google.com/drive/folders/1HLVAnAU6Y2CUfOYb2N0JpaQ_mb94eAfl?usp=sharing). but make sure to read the licencse.
 ## Credits
 In game
 # Controls pc
